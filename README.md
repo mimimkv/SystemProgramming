@@ -1,2 +1,2 @@
 # SystemProgramming
-System Programming course @FMI @Sofia University for the 2021/2022 academic year
+System Programming course @FMI @Sofia University in C for the 2021/2022 academic year
