@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
-int main(int argc, char* argv[])
+int main()
 {
     int fd1 = open("file1.txt", O_RDONLY | O_CREAT, 0644);
     printf("File descriptor number %d \n", fd1);
